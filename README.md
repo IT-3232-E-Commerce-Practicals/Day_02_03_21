@@ -29,3 +29,5 @@ Spring Tools Suite (STS) is an IDE tailored for Spring Boot development, based o
 ## Screenshots
 
 ![Image](https://github.com/user-attachments/assets/a67abdcd-7b55-4992-85bf-434d60a519d5)
+
+![Image](https://github.com/user-attachments/assets/a7f488ac-6d3c-4a9b-900f-14826fbe3490)
